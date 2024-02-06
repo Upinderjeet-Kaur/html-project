@@ -1,0 +1,37 @@
+img{
+    float : right;
+    max-width : 15%;
+    height : 160px;
+    width : 180px;
+    
+}
+.one{
+    margin-right: 3%;
+}
+.onee{
+    width : 80%;
+}
+a{
+    color:red; 
+    font-family: cursive;
+}
+body{
+    
+    background-color : rgb(242, 215, 213);
+    
+}
+
+span{
+    background-color: red;
+    color: white;
+    font-family: cursive;
+}
+
+.cursive{
+    font-family: cursive;
+}
+
+footer{
+    font-family: cursive;
+}
+
